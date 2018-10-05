@@ -24,4 +24,12 @@ We will mainly concentrate on these questions
 
 3) Top teams based on number on possession
 
+Here is a glimpse of visualization
+
+![selection_003](https://user-images.githubusercontent.com/42818784/46556393-230e6c00-c904-11e8-9a12-33d8e044a395.png)
+
+![selection_001](https://user-images.githubusercontent.com/42818784/46556391-2275d580-c904-11e8-8a68-01fa5a0696a7.png)
+
+![selection_002](https://user-images.githubusercontent.com/42818784/46556392-230e6c00-c904-11e8-856f-40f954ac5761.png)
+
 
